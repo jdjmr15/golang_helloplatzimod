@@ -1,3 +1,3 @@
-module github.com/jdjmr15/golang_helloplatzimod
+module github.com/jdjmr15/helloplatzimod
 
 go 1.17
